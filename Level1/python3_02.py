@@ -1,5 +1,5 @@
 """
-참여자들 중 완주하지 못한 단 한명을 찾아내
+참여자들 중 완주하지 못한 단 한명을 찾아내기 
 """
 
 def solution(participant, completion):
