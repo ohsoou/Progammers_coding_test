@@ -1,4 +1,4 @@
-//k번째 수
+##k번째 수
 
 def solution(array, commands):
     answer = []
