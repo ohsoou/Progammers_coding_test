@@ -8,3 +8,4 @@
 |[완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576)|[python3](https://github.com/ohsoou/Progammers_coding_test/blob/main/Level1/python3_02.py)|
 |[k번째 수](https://programmers.co.kr/learn/courses/30/lessons/42748)|[python3](https://github.com/ohsoou/Progammers_coding_test/blob/main/Level1/python3_03.py)|
 |[체육복](https://programmers.co.kr/learn/courses/30/lessons/42862)|[python3](https://github.com/ohsoou/Progammers_coding_test/blob/main/Level1/python3_04.py)|
+|[키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256)|[python3](https://github.com/ohsoou/Progammers_coding_test/blob/main/Level1/python3_05.py)|
