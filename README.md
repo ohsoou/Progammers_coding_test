@@ -9,3 +9,4 @@
 |[k번째 수](https://programmers.co.kr/learn/courses/30/lessons/42748)|[python3](https://github.com/ohsoou/Progammers_coding_test/blob/main/Level1/python3_03.py)|
 |[체육복](https://programmers.co.kr/learn/courses/30/lessons/42862)|[python3](https://github.com/ohsoou/Progammers_coding_test/blob/main/Level1/python3_04.py)|
 |[키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256)|[python3](https://github.com/ohsoou/Progammers_coding_test/blob/main/Level1/python3_05.py)|
+|[크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061)|[python3](https://github.com/ohsoou/Progammers_coding_test/blob/main/Level1/python3_06.py)|
