@@ -2,6 +2,8 @@
 - programmers 연습 문제들을 풀고 기록하는 저장소
 - https://programmers.co.kr/
 # Content
+
+## Level1
 |문제|코드|
 |:---:|:---:|
 |[폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845)|[python3](https://github.com/ohsoou/Progammers_coding_test/blob/main/Level1/python3_01.py)|
@@ -13,3 +15,8 @@
 |[신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410)|[python3](https://github.com/ohsoou/Progammers_coding_test/blob/main/Level1/python3_07.py)|
 |[모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840)|[python3](https://github.com/ohsoou/Progammers_coding_test/blob/main/Level1/python3_08.py)|
 |[내적](https://programmers.co.kr/learn/courses/30/lessons/70128)|[python3](https://github.com/ohsoou/Progammers_coding_test/blob/main/Level1/python3_09.py)|
+
+## Level2
+|문제|코드|
+|:---:|:---:|
+|[전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577)|[python3](https://github.com/ohsoou/Progammers_coding_test/blob/main/Level2/python3_01.py)|
