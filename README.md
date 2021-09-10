@@ -21,3 +21,9 @@
 |:---:|:---:|
 |[전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577)|[python3](https://github.com/ohsoou/Progammers_coding_test/blob/main/Level2/python3_01.py)|
 |[기능 개발](https://programmers.co.kr/learn/courses/30/lessons/42586)|[python3](https://github.com/ohsoou/Progammers_coding_test/blob/main/Level2/python3_02.py)|
+
+
+## Kakao
+|문제|코드|
+|:---:|:---:|
+|[숫자 문자열과 영단어](https://programmers.co.kr/learn/courses/30/lessons/81301)|[python3](https://github.com/ohsoou/Progammers_coding_test/blob/main/kakao/python03_01.py)|
